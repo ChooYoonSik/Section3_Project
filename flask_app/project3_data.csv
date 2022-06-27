@@ -1,0 +1,881 @@
+﻿brand,color,engine,gear,fuel,route,year,mileage,price
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,6,18277,13665000
+Land Rover,Wine,6-cylinder(V6),automatic,petrol,Foreign Used,10,83091,9915000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,91524,3815000
+Toyota,Wine,6-cylinder(V6),automatic,petrol,Foreign Used,12,94177,7385000
+Toyota,White,4-cylinder(I4),automatic,petrol,Locally used,18,216375,1465000
+Land Rover,Black,8-cylinder(V8),automatic,petrol,Foreign Used,14,22360,4615000
+others,Black,4-cylinder(I4),automatic,petrol,Foreign Used,15,82595,2665000
+Toyota,Blue,6-cylinder(I6),automatic,petrol,Foreign Used,14,265550,7680000
+Ford,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,14,234957,3165000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,10,140260,2085000
+Volvo,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,14,168509,2615000
+Lexus,Silver,6-cylinder(I6),automatic,petrol,Locally used,14,97021,3515000
+BMW,Black,8-cylinder(V8),automatic,petrol,Foreign Used,13,82967,6630000
+Infiniti,White,6-cylinder(V6),automatic,petrol,Foreign Used,9,205729,6840000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,26,247731,455000
+Mercedes Benz,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,8,103558,10080000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,20,184230,1203000
+Hyundai,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,9,145678,5500000
+Lexus,Silver,8-cylinder(V8),automatic,petrol,Foreign Used,6,38031,17515000
+BMW,Black,6-cylinder(V6),automatic,petrol,Locally used,16,130364,1615000
+Toyota,Green,4-cylinder(I4),automatic,petrol,Foreign Used,13,115442,3095000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,31312,7965000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,9,75261,6915000
+Honda,White,6-cylinder(V6),automatic,petrol,Foreign Used,18,228757,1570000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,84194,4215000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,8,73807,8815000
+Honda,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,5,28497,7015000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,12,97488,4015000
+Toyota,Black,8-cylinder(V8),automatic,petrol,Foreign Used,13,192404,3115000
+Hyundai,Gold,4-cylinder(I4),automatic,petrol,Locally used,10,67393,2515000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,14,77858,3315000
+Honda,Gold,4-cylinder(I4),automatic,petrol,Locally used,14,184923,1565000
+others,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,24,111271,3815000
+BMW,White,4-cylinder(I4),automatic,petrol,Locally used,14,59125,7015000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,12,72441,3535000
+Toyota,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,11,53192,6015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,29907,4415000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,56125,14865000
+others,Wine,4-cylinder(I4),automatic,petrol,Locally used,17,149158,1315000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,17,235765,2215000
+Mercedes Benz,Silver,8-cylinder(V8),automatic,petrol,Foreign Used,6,69124,18015000
+Lexus,White,6-cylinder(V6),automatic,petrol,Locally used,22,204177,1515000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,34556,13515000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,13,13256,3585000
+Honda,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,7,149232,4965000
+Toyota,Green,6-cylinder(V6),automatic,petrol,Locally used,21,143899,1715000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,187342,5565000
+others,Green,4-cylinder(I4),manual,diesel,Locally used,16,0,5535000
+Nissan,White,8-cylinder(V8),automatic,petrol,Foreign Used,13,111031,4215000
+Lexus,Wine,6-cylinder(I6),automatic,petrol,Locally used,16,145184,2655000
+Mercedes Benz,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,16,200174,3665000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,8,74980,4965000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,94133,3535000
+Toyota,Gold,6-cylinder(I6),automatic,petrol,Locally used,9,60254,4365000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,5,36962,9215000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,14,105667,2515000
+Toyota,Silver,8-cylinder(V8),automatic,petrol,Foreign Used,20,195136,2215000
+Mercedes Benz,White,6-cylinder(I6),automatic,petrol,Foreign Used,8,57685,13215000
+Ford,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,6370,15765000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,8,113085,5790000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,18,180027,2015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,16,60618,2325000
+Volvo,Silver,4-cylinder(I4),automatic,petrol,Locally used,15,174865,1800000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Locally used,7,44586,5215000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,19,198487,1815000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,7,208761,9930000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Locally used,15,122000,2765000
+Toyota,Gold,6-cylinder(V6),automatic,petrol,Locally used,16,135246,1885000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,171173,3315000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,36744,4215000
+Lexus,Gold,6-cylinder(V6),automatic,petrol,Locally used,23,170040,1115000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,19,153606,2215000
+Toyota,Green,4-cylinder(I4),automatic,petrol,Foreign Used,15,151948,2505000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,73923,15015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,5,65098,7890000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,6,42345,14865000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,35253,6285000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,76472,8940000
+Chevrolet,White,4-cylinder(I4),automatic,petrol,Foreign Used,7,23821,10515000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,14,48426,2915000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,18,85827,2325000
+Mazda,White,6-cylinder(I6),automatic,petrol,Foreign Used,15,131166,3690000
+Toyota,Black,6-cylinder(I6),automatic,petrol,Foreign Used,9,79268,10015000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,10,85632,5715000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Locally used,10,13572,7715000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,17,163962,3415000
+others,White,8-cylinder(V8),automatic,petrol,Foreign Used,15,120123,4415000
+Kia,White,4-cylinder(I4),automatic,petrol,Locally used,13,103080,1170000
+Toyota,Black,6-cylinder(I6),automatic,petrol,Foreign Used,6,64327,14865000
+Lexus,Black,6-cylinder(I6),automatic,petrol,Foreign Used,16,67968,3690000
+others,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,19,264064,2325000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,5,7051,7215000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,13,119058,4615000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,10,63440,8940000
+Honda,Gold,4-cylinder(I4),automatic,petrol,Locally used,15,108031,1830000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,5,40247,8940000
+Toyota,White,4-cylinder(I4),automatic,petrol,Locally used,14,151511,11015000
+Nissan,Gold,4-cylinder(I4),automatic,petrol,Locally used,22,270050,510000
+Mercedes Benz,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,14,100205,5295000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,70987,4015000
+Kia,Black,4-cylinder(I4),automatic,petrol,Locally used,21,205341,1265000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,17,189000,1423000
+others,Silver,4-cylinder(I4),automatic,petrol,Locally used,6,51645,9465000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,15,264893,1915000
+others,Blue,6-cylinder(V6),manual,diesel,Locally used,23,195964,7015000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Locally used,14,208969,2600000
+others,White,6-cylinder(V6),manual,diesel,Locally used,18,0,8515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,177120,5735000
+Nissan,Wine,6-cylinder(V6),automatic,petrol,Foreign Used,16,176931,2815000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Locally used,8,42009,11015000
+Ford,White,6-cylinder(V6),automatic,petrol,Foreign Used,6,58159,14015000
+Honda,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,225417,5015000
+Toyota,Gold,6-cylinder(I6),automatic,petrol,Locally used,22,186573,965000
+Toyota,White,6-cylinder(V6),automatic,petrol,Locally used,16,90128,1800000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,12,85233,5790000
+Honda,Black,6-cylinder(V6),automatic,petrol,Foreign Used,14,161765,3975000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,40566,4915000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,4,152661,15515000
+Nissan,White,4-cylinder(I4),manual,diesel,Locally used,16,0,3015000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,12,86820,3315000
+Kia,Silver,4-cylinder(I4),automatic,petrol,Locally used,8,80574,2815000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,52801,9915000
+others,Black,6-cylinder(I6),automatic,petrol,Locally used,6,69887,2215000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,4,10212,11015000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,15,203354,2215000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,15,94035,1855000
+Toyota,Silver,4-cylinder(I4),manual,petrol,Foreign Used,18,186151,1665000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,14,209076,4305000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,15,88443,3615000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,4500,7490000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,15,105285,1285000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,26650,5575000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,85759,4320000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,90928,3815000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,6,22051,14315000
+Toyota,White,6-cylinder(V6),automatic,petrol,Foreign Used,9,76163,8485000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,5,87597,8815000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,5,47385,7015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,63429,5790000
+Mercedes Benz,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,17,153224,1665000
+Lexus,White,6-cylinder(V6),automatic,petrol,Foreign Used,6,51865,15975000
+Lexus,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,16,233102,3755000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,99268,1815000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,14,97532,4855000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,19,102610,2160000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,84266,3165000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,7,77446,15515000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,17,225602,3375000
+others,Wine,4-cylinder(I4),manual,diesel,Locally used,21,173376,5015000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,11,117497,5955000
+Honda,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,3,18506,13665000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Locally used,23,155558,1015000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,16,164217,2105000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,15,155510,2615000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Locally used,13,76897,3315000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,10,141032,5790000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,5,164164,7680000
+others,Blue,4-cylinder(I4),manual,diesel,Locally used,19,0,2890000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,52421,15515000
+Hyundai,White,4-cylinder(I4),automatic,petrol,Locally used,6,35356,3115000
+others,Blue,8-cylinder(V8),automatic,petrol,Foreign Used,17,115556,5515000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,16,164216,2050000
+Mercedes Benz,White,4-cylinder(I4),automatic,petrol,Foreign Used,10,35168,7515000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,11,110421,7495000
+Toyota,Black,6-cylinder(I6),automatic,petrol,Foreign Used,17,17881,2665000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,4,27079,15215000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,17,143258,2215000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,12,78308,2915000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,5,111719,9365000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,17,134183,2655000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,14,102257,1015000
+Toyota,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,5,12042,17815000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,16,92364,3865000
+Land Rover,Black,8-cylinder(V8),automatic,petrol,Foreign Used,14,143754,5055000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,5,55669,16815000
+Toyota,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,14,102908,4715000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,89606,2315000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,12,85485,3205000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,22,201579,1665000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,118276,3215000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,19,128628,2215000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,16,187230,2465000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,5,65995,8265000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,8,89361,7015000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,33562,2660000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,16,240005,1115000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,12,136384,7890000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,163969,3315000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,15,116298,4015000
+Mazda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,14,96159,3315000
+Mercedes Benz,White,4-cylinder(I4),automatic,petrol,Foreign Used,13,100030,3465000
+others,Green,4-cylinder(I4),automatic,petrol,Foreign Used,13,156988,3015000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,11,142724,7515000
+Toyota,White,4-cylinder(I4),manual,petrol,Locally used,14,78514,3765000
+Mercedes Benz,White,6-cylinder(V6),automatic,petrol,Locally used,14,175106,2985000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,14,113463,3715000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,104132,5790000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,12,152878,2115000
+Honda,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,7,78246,6175000
+Mercedes Benz,Silver,8-cylinder(V8),automatic,petrol,Foreign Used,12,147490,7730000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,28,84789,3975000
+Toyota,Gold,6-cylinder(I6),automatic,petrol,Foreign Used,16,105449,6000000
+Hyundai,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,6,32950,9015000
+Ford,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,11,105271,2665000
+others,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,54418,5515000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,12,112725,4195000
+Lexus,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,6,9843,16015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,201448,6815000
+Honda,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,15,105357,2615000
+Ford,Black,6-cylinder(V6),automatic,petrol,Foreign Used,9,108597,8015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,51658,5790500
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,19,103796,1765000
+Hyundai,White,4-cylinder(I4),automatic,petrol,Foreign Used,8,159486,4740000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,5,28596,7365000
+Mercedes Benz,White,6-cylinder(I6),automatic,petrol,Locally used,9,97485,6615000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,3,12004,17815000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,12,104834,2715000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,21,248501,2515000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,120447,2955000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,18,96386,3315000
+Toyota,White,6-cylinder(V6),automatic,petrol,Foreign Used,13,85240,3315000
+Honda,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,17,110408,1830000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,64666,3315000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,20,153760,1215000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,12,85963,3315000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,16,182079,2665000
+others,Silver,6-cylinder(V6),automatic,petrol,Locally used,19,220475,1615000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,4,16786,13780000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Locally used,12,226206,1445000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,20,137140,2115000
+Hyundai,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,11,72093,3315000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,8,79549,12665000
+Lexus,Black,8-cylinder(V8),automatic,petrol,Foreign Used,9,112994,16515000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,23,215213,2315000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,92832,3515000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,21,139823,615000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,118928,6065000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,10,100801,5015000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,121611,6315000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,7,69150,12515000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,78993,12090000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,90638,3865000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,97587,3205000
+others,White,4-cylinder(I4),manual,diesel,Locally used,31,181081,4515000
+Ford,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,10,30159,6715000
+Lexus,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,7,32021,16215000
+Mercedes Benz,White,4-cylinder(I4),automatic,petrol,Foreign Used,9,100605,10515000
+Kia,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,8,48254,3515000
+Chevrolet,Black,6-cylinder(I6),automatic,petrol,Locally used,12,98717,3915000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,19,155802,2215000
+others,White,6-cylinder(V6),manual,diesel,Locally used,17,287016,10015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,55400,3865000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,15,146287,2415000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,7,81398,8100000
+Mercedes Benz,Black,8-cylinder(V8),automatic,petrol,Foreign Used,10,179659,9915000
+others,White,6-cylinder(V6),automatic,petrol,Locally used,12,66582,4745000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,45353,3215000
+Honda,Wine,6-cylinder(V6),automatic,petrol,Locally used,15,53364,865000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,5,30951,16015000
+Mercedes Benz,Silver,8-cylinder(V8),automatic,petrol,Foreign Used,6,165777,7515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,36295,9815000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,13,136113,3815000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,11,211407,3015000
+Toyota,Gold,6-cylinder(I6),automatic,petrol,Foreign Used,18,174488,3015009
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,17,154070,1775000
+Mercedes Benz,White,8-cylinder(V8),automatic,petrol,Foreign Used,10,65000,11515000
+others,Wine,6-cylinder(I6),manual,diesel,Locally used,23,0,5360000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,10319,6315000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,78528,2315000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,112763,4215000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,84073,3865000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,92919,3215000
+Nissan,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,124275,3815000
+Ford,Silver,8-cylinder(V8),automatic,petrol,Foreign Used,18,146676,3165000
+Honda,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,12,297333,4015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,103994,4015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,21,252365,1280000
+Toyota,White,6-cylinder(V6),automatic,petrol,Foreign Used,16,1522,2815000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,23640,16515000
+others,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,17,120676,1495000
+Honda,Wine,4-cylinder(I4),automatic,petrol,Locally used,9,149,2535000
+Toyota,White,6-cylinder(V6),automatic,petrol,Foreign Used,14,169971,5115000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Locally used,16,106789,1015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,76201,6315000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,16,137117,3095000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,8,134121,7575000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Locally used,21,174019,925000
+Honda,White,6-cylinder(V6),automatic,petrol,Foreign Used,5,87064,15240000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,11,195775,7365000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,64646,6945000
+Mazda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,87856,3425000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,16,37501,2765000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,186051,3855000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,12,134999,4965000
+Mercedes Benz,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,16,195268,3690000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,7,23330,8940000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,111872,1775000
+Kia,Black,4-cylinder(I4),automatic,petrol,Locally used,17,153413,455000
+Ford,Wine,6-cylinder(I6),automatic,petrol,Foreign Used,7,149209,9930000
+Kia,Blue,4-cylinder(I4),automatic,petrol,Locally used,10,55620,2015000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,12,190480,3375000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,18,163312,1445000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,65040,6515000
+Ford,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,151669,5790000
+Toyota,White,4-cylinder(I4),automatic,petrol,Locally used,26,119294,1015000
+Volvo,White,6-cylinder(I6),manual,diesel,Locally used,26,0,6915000
+Toyota,Gold,4-cylinder(I4),manual,diesel,Locally used,8,0,16690000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,2,2700,15015000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,6,50586,7015000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,18,85441,4015000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Locally used,10,101791,1995000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,144000,3215000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,18,179982,2315000
+Chevrolet,Black,6-cylinder(I6),automatic,petrol,Foreign Used,9,66336,7715000
+others,Gold,4-cylinder(I4),automatic,petrol,Locally used,6,68308,1415000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,14,182282,1225000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,10,22494,3535000
+others,White,4-cylinder(I4),manual,diesel,Locally used,21,111817,6015000
+Toyota,Black,6-cylinder(I6),automatic,petrol,Locally used,16,219407,1665000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,11,110515,3645000
+Ford,Black,6-cylinder(V6),automatic,petrol,Locally used,9,78551,8015000
+Mercedes Benz,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,8,61886,9915000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,19,0,1715000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,94803,3315000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,10,121000,4635000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Locally used,9,16703,2985000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Locally used,12,99819,3645000
+Ford,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,16,207762,3215000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,55028,13515000
+Ford,White,6-cylinder(V6),automatic,petrol,Foreign Used,5,42164,15015000
+others,Black,4-cylinder(I4),automatic,petrol,Locally used,6,84607,1515000
+Mack,White,6-cylinder(V6),manual,diesel,Locally used,27,0,8015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,197541,2215000
+Lexus,Black,6-cylinder(I6),automatic,petrol,Foreign Used,15,103679,5185000
+Mercedes Benz,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,10,69987,5415000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,10,156877,4980000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,84774,5515000
+Mercedes Benz,White,4-cylinder(I4),automatic,petrol,Foreign Used,15,205040,5475000
+others,White,6-cylinder(I6),manual,diesel,Locally used,17,0,9215000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Locally used,15,56242,2535000
+Nissan,Black,6-cylinder(I6),automatic,petrol,Locally used,22,242564,865000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,16,238185,1665000
+Ford,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,11,119404,4915000
+Hyundai,White,6-cylinder(V6),automatic,petrol,Foreign Used,16,125176,2165000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,14,146837,5515000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,156962,4965000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,45000,7515000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,12,111950,2640000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,12,127308,3535000
+Mercedes Benz,Silver,6-cylinder(I6),automatic,petrol,Locally used,24,102058,895000
+Toyota,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,9,48706,7715000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,89538,4320000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,192395,3007500
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,76340,3415000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Locally used,21,222618,1610000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,18,204396,1940000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,4,1296,12445000
+Toyota,Green,8-cylinder(V8),automatic,petrol,Locally used,19,240122,1290000
+Honda,Blue,4-cylinder(I4),automatic,petrol,Locally used,14,69377,1865000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,2,8153,17515000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,10,71621,7815000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,7,83320,8015000
+Ford,Black,4-cylinder(I4),automatic,petrol,Locally used,11,107576,1012500
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,11,93233,4665000
+Mercedes Benz,Wine,6-cylinder(V6),automatic,petrol,Foreign Used,13,84969,9415000
+Kia,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,73011,5790000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Locally used,13,66551,2875000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,149559,10515000
+Mercedes Benz,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,8,101523,12615000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,15,140285,2490000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,11,111194,2865000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,19,200000,1065000
+others,White,6-cylinder(V6),manual,diesel,Locally used,14,0,12015000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,6,42085,15215000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,57259,3715000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Locally used,10,13572,7715000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,8,42624,12515000
+others,Blue,6-cylinder(I6),automatic,petrol,Foreign Used,13,159448,2085000
+BMW,White,4-cylinder(I4),automatic,petrol,Foreign Used,8,156763,7890000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,7,76839,6015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,43989,14515000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,13,65483,3315000
+Hyundai,Black,6-cylinder(I6),automatic,petrol,Foreign Used,16,87510,2545000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,10,102502,3865000
+Mercedes Benz,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,122558,3975000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,15,132392,4575000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,9,122397,7895000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,6,28399,13665000
+Volvo,White,4-cylinder(I4),automatic,petrol,Locally used,12,52301,3165000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,92440,5790000
+Mercedes Benz,White,6-cylinder(V6),automatic,petrol,Foreign Used,11,66834,6515000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,7,120846,5002500
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,14,144211,1995000
+Toyota,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,15,234235,3205000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,19,235471,515000
+others,Black,4-cylinder(I4),automatic,petrol,Locally used,21,180869,400000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,116617,2415000
+Ford,Wine,6-cylinder(V6),automatic,petrol,Locally used,11,198940,3715000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,17,68259,3315000
+others,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,26,137820,1515000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,10,194140,8265000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,15,279634,2415000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,7,49355,8015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,258528,2765000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,14,48485,3515000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,14,121044,5515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,20,188936,1225000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,18,98424,3515000
+Nissan,Gold,4-cylinder(I4),automatic,petrol,Locally used,20,158404,815000
+Hyundai,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,108957,4195000
+Lexus,White,8-cylinder(V8),automatic,petrol,Locally used,19,85262,2325000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,8,63529,8215000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,16,185689,1615000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,22614,5575000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,11,95471,5295000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,13,151680,5215000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,16,147186,2315000
+Honda,Wine,4-cylinder(I4),automatic,petrol,Locally used,19,296267,765000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,17,132217,2105000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,18,180573,1280000
+Toyota,White,4-cylinder(I4),automatic,petrol,Locally used,20,256087,1225000
+Honda,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,15,76989,2115000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,13,185091,2875000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,45785,4815000
+Ford,White,4-cylinder(I4),manual,diesel,Locally used,17,0,1855000
+Chevrolet,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,51471,10015000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,203226,1915000
+Mercedes Benz,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,15,213116,4965000
+Nissan,Silver,6-cylinder(V6),automatic,petrol,Locally used,18,172605,565000
+Honda,Black,6-cylinder(I6),automatic,petrol,Locally used,12,88306,2325000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,8,49422,11015000
+Honda,Wine,4-cylinder(I4),automatic,petrol,Locally used,9,55775,2765000
+Nissan,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,151973,1615000
+Mercedes Benz,White,6-cylinder(I6),automatic,petrol,Foreign Used,6,15904,13140000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,84615,9465000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,7,27930,14515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,7,115068,5265000
+Hyundai,White,6-cylinder(I6),automatic,petrol,Locally used,15,138930,785000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,102396,5405000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,157274,2325000
+Toyota,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,14,129571,2710000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,10,104432,10215000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,10,44843,4015000
+BMW,Black,6-cylinder(I6),automatic,petrol,Foreign Used,13,84585,8515000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,8,239207,5815000
+Mercedes Benz,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,9,108109,5055000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Locally used,13,49748,9365000
+Honda,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,8,15000,5515000
+Toyota,Gold,6-cylinder(I6),automatic,petrol,Locally used,13,183059,1885000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,6,87731,5790000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,18,78285,2915000
+Honda,Black,6-cylinder(I6),automatic,petrol,Locally used,13,95000,1615000
+Lexus,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,14,117274,4715000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,14,83641,1995000
+Toyota,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,17,141956,2535000
+Mercedes Benz,White,8-cylinder(V8),automatic,petrol,Foreign Used,14,193009,5015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,17,182207,2170000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,10,144717,12015000
+Mazda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,17,118608,1365000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,182938,5160000
+Toyota,Green,4-cylinder(I4),manual,petrol,Foreign Used,22,109512,2765000
+others,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,16,78471,2665000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,67640,9015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,8,92649,7895000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,13,104029,2215000
+Lexus,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,7,56713,11515000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,92455,7935000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,24502,13515000
+Ford,Blue,4-cylinder(I4),automatic,petrol,Locally used,8,63198,3015000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,9,178766,7365000
+Ford,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,5,24178,15015000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,15,82832,6615000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,76258,3515000
+Lexus,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,7,72903,9930000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Locally used,14,156511,1890000
+others,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,143705,5765000
+Land Rover,Gold,4-cylinder(I4),automatic,petrol,Locally used,8,17433,16015000
+Land Rover,Black,6-cylinder(V6),automatic,petrol,Locally used,14,128010,3215000
+Toyota,Green,6-cylinder(V6),automatic,petrol,Foreign Used,13,78513,3465000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,43416,14865000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,9,50547,6000000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Locally used,20,214434,1465000
+others,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,21,28521,1275000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,5,30971,16015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,19,292547,1775000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,16,71192,4815000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,9,62936,6715000
+Ford,White,6-cylinder(V6),automatic,petrol,Foreign Used,9,114598,8205000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,7,65666,5625000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,215589,4980000
+Toyota,Gold,6-cylinder(V6),automatic,petrol,Locally used,12,22111,3715000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,72426,10575000
+Kia,Black,6-cylinder(I6),automatic,petrol,Locally used,10,64519,2465000
+Nissan,Gold,6-cylinder(I6),automatic,petrol,Locally used,19,195750,715000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,143175,2315000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,28990,16815000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,45268,11515000
+Kia,White,4-cylinder(I4),manual,diesel,Locally used,16,99303,4015000
+Mercedes Benz,White,6-cylinder(I6),automatic,petrol,Foreign Used,6,56061,17015000
+others,Black,4-cylinder(I4),automatic,petrol,Locally used,10,68190,2315000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,8,53273,8515000
+others,Wine,6-cylinder(V6),automatic,petrol,Foreign Used,13,132908,3315000
+Land Rover,White,8-cylinder(V8),automatic,petrol,Locally used,10,91321,6515000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Locally used,21,118777,1515000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,18,136890,2270000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,96801,7415000
+Toyota,Blue,4-cylinder(I4),manual,petrol,Foreign Used,13,253339,2535000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,106619,3690000
+Land Rover,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,131898,9515000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,18,212500,515000
+Volvo,Green,8-cylinder(V8),automatic,petrol,Locally used,15,157078,1465000
+others,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,18,156041,1958000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,7,150054,11015000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,16,199590,2715000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,14,116910,715000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,92991,3015000
+Mercedes Benz,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,8,80824,12015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,67311,2815000
+others,Blue,6-cylinder(V6),automatic,petrol,Locally used,11,72441,10515000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Locally used,20,176873,1515000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,18,76271,4015000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,19,173775,1815000
+BMW,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,18,190141,2015000
+Lexus,Black,8-cylinder(V8),automatic,petrol,Foreign Used,12,75518,13115000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,6,33466,11565000
+BMW,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,69696,3315000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,16,179337,2215000
+others,White,4-cylinder(I4),automatic,petrol,Foreign Used,16,89539,1775000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,14,89289,6175000
+Kia,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,132795,3715000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,6,38773,16015000
+Lexus,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,12,46667,7890000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,14,32342,3120000
+Ford,Black,6-cylinder(V6),automatic,petrol,Locally used,9,70764,4765000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,66322,6515000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,10,74718,7215000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,15,133295,4635000
+Mercedes Benz,White,4-cylinder(I4),automatic,petrol,Foreign Used,5,66649,13015000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,7,170153,8015000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,12,76583,3515000
+Honda,Black,6-cylinder(V6),automatic,petrol,Locally used,12,156135,2715000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,12936,16015000
+Mercedes Benz,Black,8-cylinder(V8),automatic,petrol,Foreign Used,13,139072,5315000
+Toyota,Green,4-cylinder(I4),automatic,petrol,Foreign Used,7,83686,5580000
+Ford,Black,8-cylinder(V8),automatic,petrol,Foreign Used,14,96000,5405000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,10,67524,6365000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,15,157000,4815000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,125748,3690000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,6,16519,15015000
+Ford,White,6-cylinder(V6),automatic,petrol,Foreign Used,14,183695,2955000
+Lexus,Black,8-cylinder(V8),automatic,petrol,Foreign Used,9,88896,16515000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,71389,3690000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,13,123869,4385000
+Toyota,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,10,113145,7015000
+others,Black,4-cylinder(I4),automatic,petrol,Foreign Used,17,35000,1855000
+Lexus,White,4-cylinder(I4),automatic,petrol,Foreign Used,6,38221,16290000
+Toyota,Green,4-cylinder(I4),automatic,petrol,Foreign Used,12,90586,2865000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,85914,2985000
+Honda,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,18,194634,1715000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,21788,8940000
+Kia,Black,4-cylinder(I4),automatic,petrol,Locally used,10,190621,1275000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,19,265372,1865000
+Ford,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,175912,5215000
+Nissan,Black,6-cylinder(V6),automatic,petrol,Locally used,16,133831,900000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,13,82288,2915000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Locally used,12,170530,1815000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,12,130040,3755000
+Mercedes Benz,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,7,34644,10480000
+others,White,6-cylinder(V6),automatic,petrol,Foreign Used,8,71812,13515000
+Ford,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,11,124097,5370000
+Toyota,Wine,6-cylinder(I6),automatic,petrol,Foreign Used,12,141006,3550000
+Chevrolet,Silver,6-cylinder(I6),automatic,petrol,Locally used,12,94653,4005000
+Honda,Black,4-cylinder(I4),manual,petrol,Locally used,21,145230,400000
+Ford,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,6,61219,14015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,179289,4195000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,24,245417,565000
+Lexus,Black,6-cylinder(I6),automatic,petrol,Foreign Used,13,69575,4005000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,16,88243,2415000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,18,140155,615000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,4,17346,11615000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,9,45220,9145000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,133661,5015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,114239,4915000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,8,52442,8815000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Locally used,17,228751,1642500
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,9,152224,11030000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,34326,11040000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,9,56309,14715000
+Lexus,Black,6-cylinder(I6),automatic,petrol,Foreign Used,11,127,8940000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,13,143573,2270000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Locally used,20,273065,1415000
+others,Green,4-cylinder(I4),automatic,petrol,Foreign Used,26,178568,2315000
+others,White,6-cylinder(V6),manual,diesel,Locally used,14,0,6340000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,4,17053,14515000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,13,62047,2875000
+Honda,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,61794,5315000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,15,140643,1575000
+Nissan,Silver,6-cylinder(I6),automatic,petrol,Locally used,22,172869,1115000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,17,172478,1590000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,9,85345,6915000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,137118,3715000
+Lexus,Black,8-cylinder(V8),automatic,petrol,Locally used,11,54400,11515000
+others,Black,6-cylinder(V6),automatic,petrol,Foreign Used,18,85101,2115000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,85560,6515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,136391,5515000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,5,117000,13215000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Locally used,14,131449,1715000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,6,43543,11040000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,13,196238,4215000
+Infiniti,Black,4-cylinder(I4),automatic,petrol,Foreign Used,15,99340,3015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,90397,3865000
+Nissan,White,4-cylinder(I4),automatic,petrol,Foreign Used,8,97597,4015000
+Mercedes Benz,White,4-cylinder(I4),automatic,petrol,Foreign Used,8,98652,10515000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,61610,7995000
+others,White,6-cylinder(I6),manual,diesel,Locally used,14,0,9215000
+others,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,16,186807,2515000
+others,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,92189,3755000
+Lexus,White,4-cylinder(I4),automatic,petrol,Locally used,13,143097,2715000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,12,205240,7015000
+others,Black,4-cylinder(I4),automatic,petrol,Locally used,6,68901,1615000
+Lexus,White,8-cylinder(V8),automatic,petrol,Foreign Used,7,77872,16515000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,17,211084,1065000
+Nissan,Silver,6-cylinder(I6),automatic,petrol,Locally used,21,146707,675000
+Toyota,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,8,66844,14015000
+Lexus,Black,6-cylinder(I6),automatic,petrol,Locally used,15,161412,2230000
+Ford,Black,4-cylinder(I4),automatic,petrol,Foreign Used,14,48000,3215000
+Toyota,White,4-cylinder(I4),manual,diesel,Locally used,27,101357,6015000
+Nissan,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,177773,3115000
+Ford,White,6-cylinder(I6),automatic,petrol,Foreign Used,11,145184,4430000
+others,White,6-cylinder(V6),manual,diesel,Locally used,22,229795,9065000
+Toyota,Wine,6-cylinder(I6),automatic,petrol,Foreign Used,6,60147,14015000
+Lexus,White,6-cylinder(V6),automatic,petrol,Foreign Used,19,89539,2765000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,142333,4015000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Locally used,23,59535,1060000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,6,134971,8015000
+Lexus,White,6-cylinder(V6),automatic,petrol,Locally used,20,287551,1115000
+Toyota,Blue,6-cylinder(I6),automatic,petrol,Foreign Used,16,3845,3215000
+Mazda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,20,224294,1315000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,139568,4005000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,15,170268,2655000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,14,237314,2010000
+others,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,25,14456,2325000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,10,86000,3975000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,101991,3015000
+Nissan,Silver,6-cylinder(V6),automatic,petrol,Locally used,17,0,730000
+Mercedes Benz,Blue,6-cylinder(V6),automatic,petrol,Foreign Used,9,113493,6015000
+BMW,Black,4-cylinder(I4),automatic,petrol,Locally used,8,57067,5515000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,14,152544,3715000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Locally used,19,257231,765000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,18,102486,2095000
+Kia,Black,6-cylinder(V6),automatic,petrol,Foreign Used,3,26204,8265000
+Mercedes Benz,Green,6-cylinder(I6),automatic,petrol,Foreign Used,12,143761,8265000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,17,178388,2105000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,4,34275,8915000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,68568,3215000
+Lexus,Black,8-cylinder(V8),automatic,petrol,Locally used,9,17064,17865000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,15,76374,3065000
+others,Black,6-cylinder(I6),automatic,petrol,Locally used,14,75462,4615000
+Lexus,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,10,56558,9015000
+Honda,White,4-cylinder(I4),automatic,petrol,Foreign Used,4,23426,13515000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,14,277151,2365000
+Lexus,White,4-cylinder(I4),automatic,petrol,Locally used,22,232556,1515000
+Mazda,Silver,4-cylinder(I4),automatic,petrol,Locally used,19,270634,780000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,115559,3480000
+Infiniti,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,17,261406,2315000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,19,97997,2315000
+others,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,17,60487,4005000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,19,194645,2655000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,18,135800,1615000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,15,92408,3110000
+Lexus,White,8-cylinder(V8),automatic,petrol,Foreign Used,8,44089,17395000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,10,87721,3615000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,52241,18015000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Locally used,22,131349,715000
+Ford,Wine,8-cylinder(V8),automatic,petrol,Foreign Used,15,283012,3165000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,16,140108,4215000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,66448,3215000
+Toyota,Blue,6-cylinder(V6),automatic,petrol,Locally used,16,118735,1720000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,12,95850,2850000
+Mercedes Benz,Wine,6-cylinder(I6),automatic,petrol,Foreign Used,8,38474,12115000
+Lexus,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,9,98997,8415000
+Lexus,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,18,275338,3715000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,18,92700,2535000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,12,111391,2665000
+Honda,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,10,142055,4965000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,10,163524,6065000
+Hyundai,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,123818,2435000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,14,80188,5115000
+Mercedes Benz,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,132746,4015000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,92926,4415000
+Nissan,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,157237,2315000
+Toyota,Gold,8-cylinder(V8),automatic,petrol,Locally used,6,38980,17340000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,117137,7495000
+Mercedes Benz,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,13,83440,4320000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,65384,3425000
+others,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,6,47261,1415000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,186877,2325000
+others,Gold,6-cylinder(V6),automatic,petrol,Locally used,2,150,9365000
+Mercedes Benz,White,6-cylinder(I6),automatic,petrol,Foreign Used,8,76333,9915000
+Nissan,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,149618,1995000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,17,139860,4915000
+Honda,White,4-cylinder(I4),automatic,petrol,Foreign Used,4,32495,14515000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,14,201132,3110000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,18,235328,1445000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,10,91602,5790000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,10,90307,6815000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,9,108410,9250000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,5,130551,13315000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,11,91441,3205000
+Ford,Black,6-cylinder(I6),automatic,petrol,Foreign Used,8,107856,3715000
+Toyota,Wine,6-cylinder(V6),automatic,petrol,Foreign Used,6,59450,14535000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,84310,5515000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,153886,3715000
+Volvo,Blue,8-cylinder(V8),manual,diesel,Locally used,28,0,11015000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Locally used,14,90254,2105000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Foreign Used,11,70586,10515000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,11,78544,3415000
+Hyundai,Gold,6-cylinder(I6),automatic,petrol,Locally used,8,102548,3315000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,32541,3115000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,9,85401,8265000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,188890,3550000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,8,142361,4195000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,163822,3515000
+others,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,12,232727,3215000
+Toyota,White,4-cylinder(I4),automatic,petrol,Locally used,21,240329,675000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,18,177235,665000
+Mazda,Blue,6-cylinder(V6),automatic,petrol,Locally used,20,230919,675000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,11,81505,3900000
+Ford,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,196773,7015000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,11,100081,5515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,15,178416,1965000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,60972,12615000
+others,Black,4-cylinder(I4),automatic,diesel,Foreign Used,14,235960,4115000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,18,80235,4005000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,143574,7890000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,7,96158,4965000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,13,61287,3215000
+Lexus,White,4-cylinder(I4),automatic,petrol,Foreign Used,15,85363,4215000
+Honda,Gold,6-cylinder(I6),automatic,petrol,Foreign Used,13,158855,3815000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,10,58750,4515000
+Mercedes Benz,White,6-cylinder(V6),automatic,petrol,Foreign Used,13,6297,3615000
+Honda,Black,4-cylinder(I4),automatic,petrol,Locally used,21,68591,515000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,17,114239,2115000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,51199,6515000
+Honda,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,16,100017,2215000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,13,85448,2415000
+Nissan,Black,8-cylinder(V8),automatic,petrol,Locally used,14,110706,3115000
+Toyota,White,4-cylinder(I4),automatic,petrol,Foreign Used,12,91258,4085000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,8,81011,3615000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,15,58687,4095000
+Lexus,Black,8-cylinder(V8),automatic,petrol,Foreign Used,17,32793,5765000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,11,147106,1565000
+Mercedes Benz,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,6,61979,16015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,14,87096,2215000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,16,87096,2280000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,16,94972,2105000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,88661,5915000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Locally used,19,127850,1315000
+Honda,Green,4-cylinder(I4),automatic,petrol,Locally used,19,139886,615000
+Mercedes Benz,Black,6-cylinder(V6),automatic,petrol,Locally used,10,229800,5515000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,9,83000,12115000
+Hyundai,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,13,201779,3415000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,12,80679,4815000
+Lexus,Silver,6-cylinder(I6),automatic,petrol,Foreign Used,9,66416,10685000
+Honda,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,16,153224,2515000
+Toyota,Green,6-cylinder(I6),automatic,petrol,Foreign Used,11,85596,5065000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,9,167630,6615000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,19,171493,1275000
+Hyundai,White,4-cylinder(I4),automatic,petrol,Foreign Used,5,56225,11565000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Locally used,16,162853,1415000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,9,101552,9915000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,5,16835,17615000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,15,76759,3615000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,14,22444,2655000
+Ford,Black,6-cylinder(V6),automatic,petrol,Locally used,15,275000,1915000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,9,120957,7165000
+Nissan,White,4-cylinder(I4),manual,diesel,Locally used,26,217998,4015000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Locally used,23,249570,675000
+Mercedes Benz,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,10,144318,9815000
+Hyundai,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,9,100329,3915000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,10,114221,4740000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,211352,3055000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,20,110575,1915000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,9,37500,5115000
+Toyota,Gold,4-cylinder(I4),automatic,petrol,Foreign Used,19,121545,3425000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,56062,11015000
+Lexus,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,86419,3615000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,13,70048,6215000
+others,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,13,83113,2815000
+Ford,Black,6-cylinder(V6),automatic,petrol,Locally used,9,39696,15015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,89560,5515000
+Toyota,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,14,76766,5815000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Locally used,15,69387,2640000
+Lexus,Green,6-cylinder(V6),automatic,petrol,Foreign Used,15,176710,4085000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,137037,2915000
+others,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,8,91534,8065000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,14,128894,5055000
+Mercedes Benz,White,6-cylinder(I6),automatic,petrol,Foreign Used,13,176878,6615000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,17,86235,2215000
+Lexus,Black,6-cylinder(I6),automatic,petrol,Locally used,18,289909,1865000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,4,102901,11015000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Locally used,21,19038,983000
+Honda,Wine,6-cylinder(V6),automatic,petrol,Foreign Used,14,85791,2985000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Locally used,19,111969,915000
+Mercedes Benz,Blue,8-cylinder(V8),automatic,petrol,Foreign Used,8,55586,11030000
+Ford,White,4-cylinder(I4),automatic,diesel,Foreign Used,20,134571,2665000
+Toyota,Wine,6-cylinder(V6),automatic,petrol,Locally used,17,130054,3205000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,93985,7015000
+Toyota,Green,6-cylinder(V6),automatic,petrol,Foreign Used,14,178338,3975000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,7,95707,9015000
+Mercedes Benz,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,16,174267,3765000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,96334,3165000
+Kia,Gold,4-cylinder(I4),automatic,petrol,Locally used,10,69194,1415000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,17,80578,3375000
+Honda,White,6-cylinder(V6),automatic,petrol,Foreign Used,19,74203,1867500
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,19,229557,1765000
+Honda,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,12,205539,2315000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,9,69450,6065000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,12,244739,5075000
+Toyota,Black,6-cylinder(V6),automatic,petrol,Foreign Used,9,52397,7050000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,31742,1905000
+others,Black,6-cylinder(I6),automatic,petrol,Locally used,21,180869,400000
+Nissan,Wine,6-cylinder(I6),automatic,petrol,Locally used,17,117385,785000
+Mercedes Benz,Black,6-cylinder(I6),automatic,petrol,Foreign Used,9,65728,7215000
+Honda,Green,4-cylinder(I4),automatic,petrol,Locally used,20,10000,543000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,22698,5295000
+Mazda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,17,188971,2065000
+Lexus,White,6-cylinder(V6),automatic,petrol,Foreign Used,12,193858,4855000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,12,120706,6945000
+Toyota,Blue,6-cylinder(I6),automatic,petrol,Locally used,17,88968,2065000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,5,18415,8815000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,10,1348,5765000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,199373,3137500
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,6,48756,9015000
+Toyota,White,6-cylinder(I6),automatic,petrol,Foreign Used,12,109418,4815000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Locally used,17,165080,785000
+others,White,4-cylinder(I4),manual,diesel,Locally used,23,0,3015000
+Honda,Blue,6-cylinder(I6),automatic,petrol,Locally used,19,164195,715000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,15,125095,2715000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,13,120692,3165000
+Toyota,Black,8-cylinder(V8),automatic,petrol,Locally used,15,99528,11565000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,7,53986,10615000
+Toyota,Wine,4-cylinder(I4),automatic,petrol,Foreign Used,9,71550,4015000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,13,195828,2315000
+Lexus,Blue,6-cylinder(V6),automatic,petrol,Locally used,14,145978,3415000
+Mercedes Benz,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,16,209568,5265000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,11,115336,6840000
+Lexus,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,11,125045,5735000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,92759,5015000
+Toyota,Wine,6-cylinder(V6),automatic,petrol,Locally used,14,75308,2665000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,13,121528,2915000
+Toyota,White,6-cylinder(V6),automatic,petrol,Locally used,17,169615,1275000
+Lexus,Silver,8-cylinder(V8),automatic,petrol,Foreign Used,7,52708,12515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,12,14115,2875000
+Mercedes Benz,Black,4-cylinder(I4),automatic,petrol,Foreign Used,7,7690,16515000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,6,42656,17615000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,14,121021,2715000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,6,68589,6615000
+others,Black,4-cylinder(I4),automatic,petrol,Foreign Used,12,142623,3165000
+Toyota,White,4-cylinder(I4),automatic,petrol,Locally used,12,120725,5515000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,13,135935,3315000
+Toyota,Blue,4-cylinder(I4),automatic,petrol,Foreign Used,8,92709,4315000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,15,65528,3535000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,10,62894,4515000
+Lexus,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,62125,9315000
+Lexus,Black,6-cylinder(V6),automatic,petrol,Foreign Used,8,75578,9585000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Locally used,18,189248,1885000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,3,19936,16015000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,13,158580,2745000
+Ford,Black,6-cylinder(V6),automatic,petrol,Locally used,9,98174,2765000
+Lexus,Silver,6-cylinder(V6),automatic,petrol,Foreign Used,16,28879,3795000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,93266,5515000
+Honda,Silver,4-cylinder(I4),automatic,petrol,Locally used,17,107418,1170000
+Honda,White,4-cylinder(I4),automatic,petrol,Foreign Used,10,584,2615000
+Toyota,Green,4-cylinder(I4),automatic,petrol,Foreign Used,8,78984,4915000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,8,46768,5415000
+Toyota,Silver,4-cylinder(I4),automatic,petrol,Foreign Used,11,31600,3615000
+Toyota,Black,4-cylinder(I4),automatic,petrol,Foreign Used,11,96802,3415000
+Lexus,Gold,6-cylinder(V6),automatic,petrol,Foreign Used,9,146275,14315000
+others,White,6-cylinder(V6),manual,diesel,Locally used,24,0,10015000
